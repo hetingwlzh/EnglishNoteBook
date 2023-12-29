@@ -21855,6 +21855,17 @@
                                 {
                                 }
                             }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_3F739B805B994538B6AD0ADFB5CFCC4A"
+                            {
+                            "Name" = "8:WordsDividedBySyllables"
+                            "AlwaysCreate" = "11:TRUE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_7BA6C1FD1B4F46848561A2B492841131"
+                                "Folders"
+                                {
+                                }
+                            }
                             "{9EF0B969-E518-4E46-987F-47570745A589}:_447CCCF18B0A4343A0A101CFED297DB5"
                             {
                             "Name" = "8:预设词库"
@@ -22063,7 +22074,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:英语笔记本4.8"
         "ProductCode" = "8:{0C795175-E889-413D-A447-AAE1DF2DC30C}"
-        "PackageCode" = "8:{53C48433-4F42-42C8-9A12-216C204645BA}"
+        "PackageCode" = "8:{8AE00717-7F83-4613-AEB3-B2FCDE6F700B}"
         "UpgradeCode" = "8:{733E91A3-7C52-43AA-9A2F-8941A02A38D4}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
